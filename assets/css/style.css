@@ -6238,7 +6238,7 @@ textarea, select {
     -o-transition: 0.5s;
     transition: 0.5s; }
     .homePageTwo .header-section .navbar .navbar-inner .navbar-header .navbar-brand img {
-      padding: 0px 26px; }
+      padding: 0px 0px; }
     .homePageTwo .header-section .navbar .navbar-inner .navbar-collapse {
       margin: 0; }
       .homePageTwo .header-section .navbar .navbar-inner .navbar-collapse .navbar-nav {
@@ -6427,7 +6427,7 @@ textarea, select {
     .homePageThree .header-section .navbar.sticky .navbar-collapse {
       width: auto; }
   .homePageThree .header-section .navbar .navbar-header .navbar-brand img {
-    padding: 20px 0; }
+    padding: 25px 0; }
   .homePageThree .header-section .navbar .navbar-collapse .navbar-nav {
     margin: 0; }
     .homePageThree .header-section .navbar .navbar-collapse .navbar-nav li a, .homePageThree .header-section .navbar .navbar-collapse .navbar-nav li .search-view, .homePageThree .header-section .navbar .navbar-collapse .navbar-nav li .cart-icon {
