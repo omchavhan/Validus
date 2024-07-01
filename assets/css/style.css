@@ -6225,7 +6225,7 @@ textarea, select {
 .homePageTwo .header-section .navbar {
   background-color: #FFFFFF; }
   .homePageTwo .header-section .navbar.sticky .navbar-inner {
-    width: 1140px;
+    /* width: 1140px; */
     margin: 0 auto; }
     .homePageTwo .header-section .navbar.sticky .navbar-inner .navbar-collapse {
       width: auto; }
