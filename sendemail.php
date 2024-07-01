@@ -5,7 +5,7 @@
     header( 'Content-type: application/json' );
 
 
-    $to         = 'Info@validusindia.com'; //put your email here
+    $to         = 'ombhagyesh@gmail.com'; //put your email here
 
     $email_template = 'simple.html';
 
